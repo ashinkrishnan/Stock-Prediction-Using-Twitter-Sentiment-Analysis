@@ -1,1 +1,1 @@
-# Stock-Prediction-Using-Twitter-Sentiment-Analysis
+# Stock-Prediction-Using-News-Headlines-Sentiment-Analysis
